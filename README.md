@@ -47,8 +47,5 @@ Finally, push your local changes to the remote repository:
 
 ```bash
 git push -u origin master
-```
 
-This command pushes the changes to the "master" branch. If you are working with a different branch, replace "master" with the appropriate branch name.
-
-Now, your file is in the remote repository, and you have successfully created a repository and pushed a file to it.
+learn how to use git and github
